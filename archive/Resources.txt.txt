@@ -1,0 +1,5 @@
+https://www.w3schools.com/python/matplotlib_plotting.asp
+https://www.w3schools.com/python/numpy/numpy_intro.asp
+https://www.w3schools.com/python/pandas/default.asp
+https://realpython.com/linear-regression-in-python/
+https://www.datacamp.com/tutorial/random-forests-classifier-python
